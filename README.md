@@ -1,6 +1,11 @@
 # Make Something 42
 42Ecole(France Paris) Cadet & 42Seoul(Korea Republic of) Cadat's Cooperate Project
 
+Team LandMarker
+[wchae (Woo Joo Chae)](https://github.com/wchae)
+[yeju (Ye Eun Ju)](https://github.com/niamu01)
+[jsarda(Julien Sarda)](https://github.com/JUJUdev1)
+
 # How to play
 
 fill out .env file
